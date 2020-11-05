@@ -2,7 +2,7 @@
 
 .twitter-typeahead .tt-query,
 .twitter-typeahead .tt-hint {
-    margin-bottom: 0;
+    margin-bottom: 1;
 }
 
 .twitter-typeahead .tt-hint
